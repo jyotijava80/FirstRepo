@@ -1,3 +1,7 @@
 Inside Test3
 
+<<<<<<< HEAD
 some updates after first branch
+=======
+change to test5
+>>>>>>> firstbranch
